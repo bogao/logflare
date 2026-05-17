@@ -157,8 +157,13 @@
   "analytics_device_tablet": "Tablet",
   "analytics_mode_pv": "Paparan",
   "analytics_mode_uv": "Pelawat",
-  "analytics_sun": "Ahd", "analytics_mon": "Isn", "analytics_tue": "Sel", "analytics_wed": "Rab",
-  "analytics_thu": "Kha", "analytics_fri": "Jum", "analytics_sat": "Sab",
+  "analytics_sun": "Ahd",
+  "analytics_mon": "Isn",
+  "analytics_tue": "Sel",
+  "analytics_wed": "Rab",
+  "analytics_thu": "Kha",
+  "analytics_fri": "Jum",
+  "analytics_sat": "Sab",
   "analytics_trimmed_hint": "Julat masa pertanyaan dan paparan telah dipangkas untuk mengecualikan tempoh yang tidak mungkin mempunyai data.",
   "analytics_period_no_data": "Tiada data dalam tempoh yang dipilih",
   "analytics_no_data": "Tiada data lagi",
@@ -428,5 +433,7 @@
   "ai_translate_same_lang": "Bahasa sumber dan sasaran adalah sama.",
   "ai_translate_similar_lang": "Bahasa sumber dan sasaran adalah varian bahasa yang sama. Teruskan?",
   "ai_review_copy": "Salin semakan",
-  "ai_review_copied": "Disalin!"
+  "ai_review_copied": "Disalin!",
+  "chat_note_placeholder": "Tambah nota...",
+  "analytics_same_day_tooltip": "Pilihan semak semula setiap jam mungkin tidak tersedia jika data telah terkumpul kurang dari 1 jam selepas 23:00"
 }

@@ -157,8 +157,13 @@
   "analytics_device_tablet": "태블릿",
   "analytics_mode_pv": "조회수",
   "analytics_mode_uv": "방문자",
-  "analytics_sun": "일", "analytics_mon": "월", "analytics_tue": "화", "analytics_wed": "수",
-  "analytics_thu": "목", "analytics_fri": "금", "analytics_sat": "토",
+  "analytics_sun": "일",
+  "analytics_mon": "월",
+  "analytics_tue": "화",
+  "analytics_wed": "수",
+  "analytics_thu": "목",
+  "analytics_fri": "금",
+  "analytics_sat": "토",
   "analytics_trimmed_hint": "데이터가 없는 기간을 제외하기 위해 쿼리 및 표시 시간 범위가 조정되었습니다.",
   "analytics_period_no_data": "선택한 기간에 데이터가 없습니다",
   "analytics_no_data": "데이터 없음",
@@ -428,5 +433,7 @@
   "ai_translate_same_lang": "원본 언어와 대상 언어가 같습니다.",
   "ai_translate_similar_lang": "원본 언어와 대상 언어가 같은 언어의 변형입니다. 계속하시겠습니까?",
   "ai_review_copy": "검토 복사",
-  "ai_review_copied": "복사됨!"
+  "ai_review_copied": "복사됨!",
+  "chat_note_placeholder": "메모 추가...",
+  "analytics_same_day_tooltip": "23:00 이후로 1시간 미만의 데이터가 누적된 경우, 시간별 되돌아보기 옵션을 사용할 수 없을 수 있습니다"
 }

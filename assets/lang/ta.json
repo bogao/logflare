@@ -157,8 +157,13 @@
   "analytics_device_tablet": "டேப்லெட்",
   "analytics_mode_pv": "பார்வைகள்",
   "analytics_mode_uv": "பார்வையாளர்கள்",
-  "analytics_sun": "ஞா", "analytics_mon": "தி", "analytics_tue": "செ", "analytics_wed": "பு",
-  "analytics_thu": "வி", "analytics_fri": "வெ", "analytics_sat": "சனி",
+  "analytics_sun": "ஞா",
+  "analytics_mon": "தி",
+  "analytics_tue": "செ",
+  "analytics_wed": "பு",
+  "analytics_thu": "வி",
+  "analytics_fri": "வெ",
+  "analytics_sat": "சனி",
   "analytics_trimmed_hint": "தரவு இருக்க இயலாத காலகட்டங்களை விலக்க வினவல் மற்றும் காட்சி நேர வரம்பு சுருக்கப்பட்டது.",
   "analytics_period_no_data": "தேர்ந்தெடுத்த காலகட்டத்தில் தரவு இல்லை",
   "analytics_no_data": "இன்னும் தரவு இல்லை",
@@ -428,5 +433,7 @@
   "ai_translate_same_lang": "மூல மொழியும் இலக்கு மொழியும் ஒன்றே.",
   "ai_translate_similar_lang": "மூல மொழியும் இலக்கு மொழியும் ஒரே மொழியின் மாறுபாடுகள். தொடரவா?",
   "ai_review_copy": "மதிப்பாய்வை நகலெடு",
-  "ai_review_copied": "நகலெடுக்கப்பட்டது!"
+  "ai_review_copied": "நகலெடுக்கப்பட்டது!",
+  "chat_note_placeholder": "குறிப்பு சேர்க்கவும்...",
+  "analytics_same_day_tooltip": "23:00க்கு பிறகு 1 மணி நேரத்திற்கும் குறைவாக தரவு திரட்டப்பட்டிருந்தால், மணிநேர பின்னோக்கு விருப்பம் கிடைக்காமல் போகலாம்"
 }

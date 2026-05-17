@@ -157,8 +157,13 @@
   "analytics_device_tablet": "Máy tính bảng",
   "analytics_mode_pv": "Lượt xem",
   "analytics_mode_uv": "Khách",
-  "analytics_sun": "CN", "analytics_mon": "T2", "analytics_tue": "T3", "analytics_wed": "T4",
-  "analytics_thu": "T5", "analytics_fri": "T6", "analytics_sat": "T7",
+  "analytics_sun": "CN",
+  "analytics_mon": "T2",
+  "analytics_tue": "T3",
+  "analytics_wed": "T4",
+  "analytics_thu": "T5",
+  "analytics_fri": "T6",
+  "analytics_sat": "T7",
   "analytics_trimmed_hint": "Phạm vi thời gian truy vấn và hiển thị đã được thu hẹp để loại trừ các giai đoạn không thể có dữ liệu.",
   "analytics_period_no_data": "Không có dữ liệu trong giai đoạn đã chọn",
   "analytics_no_data": "Chưa có dữ liệu",
@@ -428,5 +433,7 @@
   "ai_translate_same_lang": "Ngôn ngữ nguồn và đích giống nhau.",
   "ai_translate_similar_lang": "Ngôn ngữ nguồn và đích là biến thể của cùng một ngôn ngữ. Tiếp tục?",
   "ai_review_copy": "Sao chép đánh giá",
-  "ai_review_copied": "Đã sao chép!"
+  "ai_review_copied": "Đã sao chép!",
+  "chat_note_placeholder": "Thêm ghi chú...",
+  "analytics_same_day_tooltip": "Tùy chọn nhìn lại theo giờ có thể không khả dụng nếu dữ liệu tích lũy chưa đủ 1 giờ sau 23:00"
 }

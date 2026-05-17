@@ -157,8 +157,13 @@
   "analytics_device_tablet": "タブレット",
   "analytics_mode_pv": "ビュー",
   "analytics_mode_uv": "訪問者",
-  "analytics_sun": "日", "analytics_mon": "月", "analytics_tue": "火", "analytics_wed": "水",
-  "analytics_thu": "木", "analytics_fri": "金", "analytics_sat": "土",
+  "analytics_sun": "日",
+  "analytics_mon": "月",
+  "analytics_tue": "火",
+  "analytics_wed": "水",
+  "analytics_thu": "木",
+  "analytics_fri": "金",
+  "analytics_sat": "土",
   "analytics_trimmed_hint": "データが存在しない期間を除外するため、クエリと表示の時間範囲を調整しました。",
   "analytics_period_no_data": "選択した期間にデータがありません",
   "analytics_no_data": "データなし",
@@ -428,5 +433,7 @@
   "ai_translate_same_lang": "翻訳元と翻訳先が同じ言語です。",
   "ai_translate_similar_lang": "翻訳元と翻訳先は同じ言語の変種です。続行しますか？",
   "ai_review_copy": "レビューをコピー",
-  "ai_review_copied": "コピーしました！"
+  "ai_review_copied": "コピーしました！",
+  "chat_note_placeholder": "メモを追加...",
+  "analytics_same_day_tooltip": "23:00以降のデータが1時間未満の場合、1時間遡るオプションが利用できない場合があります"
 }

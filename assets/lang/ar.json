@@ -157,8 +157,13 @@
   "analytics_device_tablet": "جهاز لوحي",
   "analytics_mode_pv": "مشاهدات",
   "analytics_mode_uv": "زوار",
-  "analytics_sun": "أحد", "analytics_mon": "إثن", "analytics_tue": "ثلا", "analytics_wed": "أرب",
-  "analytics_thu": "خمي", "analytics_fri": "جمع", "analytics_sat": "سبت",
+  "analytics_sun": "أحد",
+  "analytics_mon": "إثن",
+  "analytics_tue": "ثلا",
+  "analytics_wed": "أرب",
+  "analytics_thu": "خمي",
+  "analytics_fri": "جمع",
+  "analytics_sat": "سبت",
   "analytics_trimmed_hint": "تم تقليص النطاق الزمني للاستعلام والعرض لاستبعاد الفترات التي لا يمكن أن تحتوي على بيانات.",
   "analytics_period_no_data": "لا توجد بيانات في الفترة المحددة",
   "analytics_no_data": "لا توجد بيانات بعد",
@@ -428,5 +433,7 @@
   "ai_translate_same_lang": "اللغة المصدر والهدف متطابقتان.",
   "ai_translate_similar_lang": "اللغة المصدر والهدف متغيرات من نفس اللغة. هل تريد المتابعة؟",
   "ai_review_copy": "نسخ المراجعة",
-  "ai_review_copied": "تم النسخ!"
+  "ai_review_copied": "تم النسخ!",
+  "chat_note_placeholder": "أضف ملاحظة...",
+  "analytics_same_day_tooltip": "قد يكون خيار النظرة السابقة بالساعات غير متاح إذا كانت البيانات قد تراكمت لأقل من ساعة بعد الساعة 23:00"
 }

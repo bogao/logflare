@@ -157,8 +157,13 @@
   "analytics_device_tablet": "แท็บเล็ต",
   "analytics_mode_pv": "ครั้ง",
   "analytics_mode_uv": "ผู้เข้าชม",
-  "analytics_sun": "อา", "analytics_mon": "จ", "analytics_tue": "อ", "analytics_wed": "พ",
-  "analytics_thu": "พฤ", "analytics_fri": "ศ", "analytics_sat": "ส",
+  "analytics_sun": "อา",
+  "analytics_mon": "จ",
+  "analytics_tue": "อ",
+  "analytics_wed": "พ",
+  "analytics_thu": "พฤ",
+  "analytics_fri": "ศ",
+  "analytics_sat": "ส",
   "analytics_trimmed_hint": "ช่วงเวลาของการสืบค้นและการแสดงผลได้รับการตัดทอนเพื่อยกเว้นช่วงที่ไม่อาจมีข้อมูล",
   "analytics_period_no_data": "ไม่มีข้อมูลในช่วงเวลาที่เลือก",
   "analytics_no_data": "ยังไม่มีข้อมูล",
@@ -428,5 +433,7 @@
   "ai_translate_same_lang": "ภาษาต้นฉบับและเป้าหมายเหมือนกัน",
   "ai_translate_similar_lang": "ภาษาต้นฉบับและเป้าหมายเป็นตัวแปรของภาษาเดียวกัน ต้องการดำเนินการต่อหรือไม่?",
   "ai_review_copy": "คัดลอกบทวิจารณ์",
-  "ai_review_copied": "คัดลอกแล้ว!"
+  "ai_review_copied": "คัดลอกแล้ว!",
+  "chat_note_placeholder": "เพิ่มหมายเหตุ...",
+  "analytics_same_day_tooltip": "ตัวเลือกย้อนดูรายชั่วโมงอาจไม่พร้อมใช้งานหากข้อมูลสะสมน้อยกว่า 1 ชั่วโมงหลัง 23:00"
 }

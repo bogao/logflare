@@ -157,8 +157,13 @@
   "analytics_device_tablet": "טאבלט",
   "analytics_mode_pv": "צפיות",
   "analytics_mode_uv": "מבקרים",
-  "analytics_sun": "א'", "analytics_mon": "ב'", "analytics_tue": "ג'", "analytics_wed": "ד'",
-  "analytics_thu": "ה'", "analytics_fri": "ו'", "analytics_sat": "ש'",
+  "analytics_sun": "א'",
+  "analytics_mon": "ב'",
+  "analytics_tue": "ג'",
+  "analytics_wed": "ד'",
+  "analytics_thu": "ה'",
+  "analytics_fri": "ו'",
+  "analytics_sat": "ש'",
   "analytics_trimmed_hint": "טווח הזמן של השאילתה והתצוגה קוצר כדי לא לכלול תקופות שבהן לא ייתכנו נתונים.",
   "analytics_period_no_data": "אין נתונים בתקופה שנבחרה",
   "analytics_no_data": "אין נתונים עדיין",
@@ -428,5 +433,7 @@
   "ai_translate_same_lang": "שפת המקור ושפת היעד זהות.",
   "ai_translate_similar_lang": "שפת המקור ושפת היעד הן גרסאות של אותה שפה. להמשיך?",
   "ai_review_copy": "העתק סקירה",
-  "ai_review_copied": "הועתק!"
+  "ai_review_copied": "הועתק!",
+  "chat_note_placeholder": "הוסף הערה...",
+  "analytics_same_day_tooltip": "אפשרות הבדיקה לפי שעה עשויה להיות לא זמינה אם הנתונים התצברו פחות משעה אחרי 23:00"
 }
